@@ -1,0 +1,11 @@
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\bin\Debug\netcoreapp2.0\DataAnnotationsEF.deps.json
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\bin\Debug\netcoreapp2.0\DataAnnotationsEF.runtimeconfig.json
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\bin\Debug\netcoreapp2.0\DataAnnotationsEF.runtimeconfig.dev.json
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\bin\Debug\netcoreapp2.0\DataAnnotationsEF.dll
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\bin\Debug\netcoreapp2.0\DataAnnotationsEF.pdb
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\obj\Debug\netcoreapp2.0\DataAnnotationsEF.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\obj\Debug\netcoreapp2.0\DataAnnotationsEF.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\obj\Debug\netcoreapp2.0\DataAnnotationsEF.AssemblyInfo.cs
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\obj\Debug\netcoreapp2.0\DataAnnotationsEF.dll
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\obj\Debug\netcoreapp2.0\DataAnnotationsEF.pdb
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\DataAnnotationsEF\DataAnnotationsEF\obj\Debug\netcoreapp2.0\DataAnnotationsEF.csprojAssemblyReference.cache
